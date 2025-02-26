@@ -1,0 +1,28 @@
+body{
+    background-color: green;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("download.jpg");
+    background-size: cover;  /*to make the image cover the whole page and not repeat */
+    font-weight: bolder;
+    color: aliceblue;
+    text-align: center;
+    
+}
+
+h1{
+    color:goldenrod;
+}
+
+#message-el{
+    font-style: italic;
+}
+
+button{
+    background-color: goldenrod;
+    color: green;
+    font-weight: bold;
+    border: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 2px;
+}
